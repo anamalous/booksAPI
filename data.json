@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Northern Lights",
+    "author": "Philip Pullman",
+    "price": 900,
+    "publishedDate": "22/01/2001"
+  },
+  {
+    "id": "2",
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "price": 1020,
+    "publishedDate": "19/04/2003"
+  }
+]

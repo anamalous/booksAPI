@@ -1,0 +1,23 @@
+{
+"name":"bookAPI",
+"version":"1.0.0",
+"description":"NodeJS assignment for REST API",
+"main":"index.js",
+"scripts":{
+"start":"node index.js",
+"startmongo":"node mongoindex.js"
+},
+"keywords":[
+"node",
+"express",
+"rest-api",
+"json",
+"mongodb",
+"mongoose"
+],
+"license":"ISC",
+"dependencies":{
+"express":"^4.19.2",
+"mongoose":"^8.4.1"
+}
+}
