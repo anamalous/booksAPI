@@ -1,5 +1,6 @@
 Books REST API
- API uses either a JSON file (data.json) or a MongoDB database for storage
+ 
+API uses either a JSON file (data.json) or a MongoDB database for storage
 
 Step 1: Run npm install from  project's root directory to install dependencies.
 
